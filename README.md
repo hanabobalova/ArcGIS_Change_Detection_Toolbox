@@ -15,4 +15,5 @@ The last tool quantifies the net change,  gains and losses of the individual LUL
 Authors: Hana Bobáľová (hana.bobalova@uniba.sk), Lukáš Žubrietovský (zubrietovsky@gmail.com)
 
 The toolbox is distributed under the CC BY-NC 4.0 licence. By using this toolbox and any data derived with it, you agree to cite the following reference in any publications derived from them:
+
 Bobáľová, H., Žubrietovský, L., Šolc, A., 2020. Analysis of land cover changes using the Change Detection Toolbox: a case study of suburbanisation in the Senec district, Slovakia. Geographia Cassoviensis, 14, 2, pp.228-244. https://doi.org/10.33542/GC2020-2-07
